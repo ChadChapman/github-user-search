@@ -12,7 +12,7 @@ The `nav` section is purposefully non-functioning due to time.
 
 The sections should collapse / stack as specified, at a screen size approximate to a full-size tablet.
 
-When the designated areas stack, the `nav` and `sidebar` lists elements should condense as well.
+When the designated areas stack, the `nav` and `sidebar` list elements should condense as well.
 
 There is some minimal feedback to notify the user when a search fails.  The failed search arguments should not be included in the list of previous search results.
 

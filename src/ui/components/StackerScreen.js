@@ -101,6 +101,7 @@ export default function StackerScreen() {
                 .then((response) => {
                     const userData = response?.data;
                     setCurrentRecord(userData)
+                    setSearchInput('')
                     return userData;
                 })
                 .then((userData) => {
