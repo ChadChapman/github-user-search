@@ -18,7 +18,7 @@ export default function Footer() {
         <StyledFooter>
             <h3>Footer</h3>
             <p><StyledLink href={'https://docs.github.com/en/rest/reference'}>GitHub API reference</StyledLink></p>
-            <p><StyledLink href={'https://github.com/ChadChapman'}>Person who made this</StyledLink></p>
+            <p><StyledLink href={'https://github.com/ChadChapman/github-user-search'}>Link to this repo</StyledLink></p>
         </StyledFooter>
     )
 }
