@@ -23,3 +23,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project is deployed using [AWS Amplify](https://aws.amazon.com/amplify/).
 
 [View the project](https://main.d2ityiiy2u2j0x.amplifyapp.com/).
+
+## Want to run it locally?
+
+Nothing fancy here, assuming you have `git` and [`node` (preferably 12+)](https://nodejs.org/en/) installed:
+
+- `git clone https://github.com/ChadChapman/github-user-search.git`
+- `cd github-user-search`
+- `npm install`
+- stretch, get something to drink, grab a snack
+- `npm start`
+- check out `localhost:3000` if a browser tab does not automatically open to that location
